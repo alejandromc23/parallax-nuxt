@@ -9,8 +9,15 @@
       "./app.vue",
     ],
     theme: {
-      extend: {},
-    },
-    plugins: [],
+      extend: {
+        colors: {
+          'deep-green': '#22A699',
+          'yellow': '#F2BE22',
+          'orange': '#F29727',
+          'red': '#F24C3D',
+        },
+      },
+      plugins: [],
+    }
   }
 
