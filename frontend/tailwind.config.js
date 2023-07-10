@@ -11,13 +11,12 @@
     theme: {
       extend: {
         colors: {
-          'deep-green': '#22A699',
-          'yellow': '#F2BE22',
-          'orange': '#F29727',
-          'red': '#F24C3D',
+          'primary': '#884A39',
+          'secondary': '#C38154',
+          'tertiary': '#FFC26F',
+          'quaternary': '#F9E0BB'
         },
       },
       plugins: [],
     }
   }
-
