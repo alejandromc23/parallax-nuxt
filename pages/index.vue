@@ -10,22 +10,3 @@
   </div>
   </div>
 </template>
-
-<script>
-export default {
-  data() {
-    return {
-      image: null,
-      token: '',
-    }
-  },
-  methods: {
-    onFileChange(e) {
-      this.image = e.target.files[0];
-    },
-    submitForm() {
-      // Handle form submission
-    }
-  }
-}
-</script>
