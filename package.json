@@ -1,5 +1,5 @@
 {
-  "name": "pixel-taIe",
+  "name": "parallax-nuxt",
   "private": true,
   "scripts": {
     "build": "nuxt build",
